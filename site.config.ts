@@ -1,48 +1,53 @@
 export const siteConfig = {
-  author: 'Rock Chen',
-  title: 'Rock Chen - Blog',
-  description: 'My blog site.',
+  author: '克喵爱吃卤面',
+  title: '喵落阁',
+  description: '克喵的博客',
   lang: 'zh-CN',
 }
 
 export const subNavLinks = [
   {
-    title: 'Blog',
+    title: '博客',
     path: '/blog',
   },
-  {
-    title: 'Life',
-    path: '/life',
-  },
-  {
-    title: 'Record',
-    path: '/record',
-  },
+  // {
+  //   title: 'Life',
+  //   path: '/life',
+  // },
+  // {
+  //   title: 'Record',
+  //   path: '/record',
+  // },
 ]
 
 export const navLinks = [
   {
-    title: 'Blog',
+    title: '博客',
     path: '/blog',
     icon: 'i-icon-park-outline-align-text-right-one',
   },
   {
-    title: 'Projects',
+    title: '项目',
     path: '/projects',
     icon: 'i-icon-park-outline-blocks-and-arrows',
   },
   {
-    title: 'Tags',
+    title: '朋友们',
+    path: '/friends',
+    icon: 'i-lucide:link',
+  },
+  {
+    title: '标签',
     path: '/tags',
     icon: 'i-icon-park-outline-tag-one',
   },
   {
-    title: 'Search',
+    title: '搜索',
     path: '/search',
     icon: 'i-icon-park-outline-search',
   },
   {
-    title: 'About',
+    title: '关于',
     path: '/',
     icon: 'i-icon-park-outline-grinning-face-with-open-mouth',
   },
@@ -51,23 +56,28 @@ export const navLinks = [
 
 export const socialLinks = [
   {
-    title: '掘金',
-    path: 'https://juejin.cn/user/3826745248595550',
-    icon: 'i-simple-icons-juejin',
+    title: 'Telegram',
+    path: 'https://t.me/KemiaoJun',
+    icon: 'i-simple-icons:telegram',
+  },
+  {
+    title: 'Email',
+    path: 'mailto:me@kemiaosw.top',
+    icon: 'i-simple-icons-gmail',
   },
   {
     title: 'Bilibili',
-    path: 'https://space.bilibili.com/3850132',
+    path: 'https://space.bilibili.com/3546643173477234',
     icon: 'i-simple-icons-bilibili',
   },
   {
     title: 'Twitter',
-    path: 'https://twitter.com/Rockchen97',
+    path: 'https://twitter.com/kemiaosw',
     icon: 'i-simple-icons-twitter',
   },
   {
     title: 'Github',
-    path: 'https://github.com/chansee97',
+    path: 'https://github.com/Kemeow815',
     icon: 'i-icon-park-outline-github',
   },
 ]
@@ -100,6 +110,20 @@ export const projectList = [
         name: 'Virtuoso',
         desc: 'My simply vue starter',
         path: 'https://github.com/chansee97/virtuoso',
+      },
+    ],
+  },
+]
+
+export const friendsList = [
+  {
+    name: 'friends',
+    content: [
+      {
+        name: 'Wallleap',
+        desc: 'Luwang Blog',
+        path: 'https://myblog.wallleap.cn/',
+        avatar: 'https://gravatar.wallleap.cn/avatar/be1ccdcf025a92b98a92e331e1b3662a?size=256',
       },
     ],
   },
