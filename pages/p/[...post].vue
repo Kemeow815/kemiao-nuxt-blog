@@ -15,7 +15,7 @@ const path = post.join('/')
         <doc-toc :toc="doc.body.toc" />
         <!-- config your giscus -->
         <Giscus
-          repo="Kemeow815/kemiao-nuxt-blo"
+          repo="Kemeow815/kemiao-nuxt-blog"
           repo-id="R_kgDOOp9pxw"
           category-id="DIC_kwDOOp9px84CqUzK"
           category="Announcements"
