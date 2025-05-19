@@ -3,7 +3,7 @@ date: 2025-05-09 20:48:55
 url: deop-zyfx
 tags: 
   - 资源分享
-  - deop
+  - drop
   - 托管平台
 title: DROP：便捷大文件分享与托管网站，免费享10GB空间免费部署
 ---
