@@ -15,10 +15,10 @@ const path = post.join('/')
         <doc-toc :toc="doc.body.toc" />
         <!-- config your giscus -->
         <Giscus
-          repo="your/repo name"
-          repo-id="repo id"
-          category-id="repo category-id"
-          category="comments"
+          repo="Kemeow815/kemiao-nuxt-blo"
+          repo-id="R_kgDOOp9pxw"
+          category-id="DIC_kwDOOp9px84CqUzK"
+          category="Announcements"
           mapping="title" term="Welcome to my blog!" reactions-enabled="1"
           emit-metadata="1" input-position="top" theme="light_tritanopia" lang="zh-CN" loading="lazy"
         />
