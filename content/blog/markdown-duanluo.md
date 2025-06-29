@@ -4,7 +4,7 @@ url: markdown-duanluo
 tags: 
   - Markdown
   - 段落语法
-title: Markdowm 段落语法
+title: Markdown 段落语法
 ---
 
 > 原文位置: https://markdown.com.cn/basic-syntax/paragraphs.html
