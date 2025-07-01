@@ -47,6 +47,16 @@ export const navLinks = [
     icon: 'i-icon-park-outline-search',
   },
   {
+    title: '相册',
+    path: 'https://photos.050815.xyz',
+    icon: 'i-icon-park-outline:picture-one',
+  },
+  {
+    title: '朋友圈',
+    path: 'https://pyq.kemiaosw.top',
+    icon: 'i-icon-park-outline:comments',
+  },
+  {
     title: '关于',
     path: '/',
     icon: 'i-icon-park-outline-grinning-face-with-open-mouth',
@@ -87,32 +97,42 @@ export const projectList = [
     name: 'Projects',
     content: [
       {
-        name: 'Nuxt Blog',
-        desc: 'My blog site, base on Nuxt',
-        path: 'https://github.com/chansee97/nuxt-blog',
+        name: '本博客源码',
+        desc: '克喵自用',
+        path: 'https://github.com/Kemeow815/kemiao-nuxt-blog',
       },
       {
-        name: 'Nova Admin',
-        desc: 'a complete admin template',
-        path: 'https://github.com/chansee97/nova-admin',
+        name: 'Gwitter',
+        desc: 'Gwittter自用版本',
+        path: 'https://github.com/Kemeow815/kemiao-Gwitter',
       },
       {
-        name: 'Nova Admin Nest',
-        desc: 'The nest backend for nova admin',
-        path: 'https://github.com/chansee97/nove-admin-nest',
+        name: '克喵的TG说说',
+        desc: '基于Telegram频道的说说',
+        path: 'https://github.com/Kemeow815/BroadcastChannel',
+      },
+      {
+        name: '克喵的音乐网站',
+        desc: '基于张洪heo的自用版本',
+        path: 'https://github.com/Kemeow815/heomusic',
+      },
+      {
+        name: '克喵的热榜',
+        desc: '基于VitePress的自用版本',
+        path: 'https://github.com/Kemeow815/kemiao-news',
       },
     ],
   },
-  {
-    name: 'Starter',
-    content: [
-      {
-        name: 'Virtuoso',
-        desc: 'My simply vue starter',
-        path: 'https://github.com/chansee97/virtuoso',
-      },
-    ],
-  },
+  // {
+  //   name: 'Starter',
+  //   content: [
+  //     {
+  //       name: 'Virtuoso',
+  //       desc: 'My simply vue starter',
+  //       path: 'https://github.com/chansee97/virtuoso',
+  //     },
+  //   ],
+  // },
 ]
 
 export const friendsList = [

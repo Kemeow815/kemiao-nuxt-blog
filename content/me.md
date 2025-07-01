@@ -4,7 +4,7 @@
   <a href="https://blog-v3.kemeow.top/">
     <img 
       src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" 
-      alt="GIF Link" 
+      alt="克喵爱吃卤面" 
       height="275" 
       style="max-width: 100%; height: auto; display: inline-block;"
     />
